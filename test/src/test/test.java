@@ -5,6 +5,6 @@ public class test {
 	public static void main(String[] args) {
 		System.out.println("HelloWorld");
 		System.out.println("new Test Branch");
-		System.out.println("push me Master!!!");
+		System.out.println("ENCOUNTER!! pushME!!!");
 	}
 }
